@@ -5,6 +5,7 @@ This is a simple inversion of control (IOC) container written in python with zer
 # Usage
 
 ```python
+import Container
 
 class MyClassContract:
     pass
